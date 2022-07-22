@@ -1,0 +1,19 @@
+{
+  "name": "v13-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Julian-V",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "@discordjs/rest": "^1.0.0",
+    "cross-fetch": "^3.1.5",
+    "discord.js": "^13.9.0",
+    "node-fetch": "^3.2.9"
+  }
+}
